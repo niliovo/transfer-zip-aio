@@ -1,13 +1,13 @@
 # Transfer-Zip-Aio
 
-- 中文用户请前往 [transfer.zip-aio-zh](https://github.com/niliovo/transfer-zip-aio-zh)
+> 中文用户请前往 [transfer.zip-aio-zh](https://github.com/niliovo/transfer-zip-aio-zh)
 
 - [Github](https://github.com/niliovo/transfer-zip-aio)
 - [Docker Hub](https://hub.docker.com/r/niliaerith/transfer-zip-aio)
 
 ## Project Introduction
 
-- This project packages the transfer.zip-web front end and back end into a Docker image based on the following project
+> This project packages the transfer.zip-web front end and back end into a Docker image based on the following project
 
 - [robinkarlberg/transfer.zip-web](https://github.com/robinkarlberg/transfer.zip-web)
 
