@@ -2,6 +2,8 @@
 apk add --no-cache git nodejs npm
 git clone https://github.com/robinkarlberg/transfer.zip-web.git tmp
 mv tmp/* .
+apk del -y git
+apk cache clean --purge -y
 cd signaling-server
 npm i
 cd ..
